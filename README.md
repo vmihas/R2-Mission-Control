@@ -1,5 +1,7 @@
 # 🤖 R2 Mission Control
 
+![Version](https://img.shields.io/github/v/release/vmihas/R2-Mission-Control)
+![Downloads](https://img.shields.io/github/downloads/vmihas/R2-Mission-Control/total)
 [![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?logo=android&logoColor=white)](https://developer.android.com)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
